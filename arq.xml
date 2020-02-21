@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dataset>
+	<usuario nome="neide" avatar="..img/neide.png" bio="nois e o trem e nois passa por cima" email="neide@gmail.com" senha="123456" />
+	<usuario nome="suzana" avatar="..img/suzana.png" bio="metade de mim é odio" email="suzana@gmail.com" senha="123456" />
+	<usuario nome="belgica" avatar="..img/belgica.png" bio="hey guys my name is belgica from belgica" email="belgica@gmail.com" senha="123456" />
+</dataset>
